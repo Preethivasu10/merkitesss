@@ -1,19 +1,24 @@
 .header{
     background: white;
-    width:440px;
+    width:420px;
     border: 1px solid transparent;
     position:absolute;
     top:115px;
-    right:23px;
+   
+    right:10px;
     border-radius: 5px;
     height: 250px;
 }
 .campaign{
+  position: absolute;
+  left: 5px;
+  top: 8px;
     width: 310px;
     border: 1px solid transparent;
     border-color: black;
     border-radius: 10px;
-    margin: 8px;
+   
+    margin-right: 10px;
     height: 95px;
 }
 .line_campaign{
@@ -184,6 +189,9 @@
     border: 1px solid transparent;
     border-radius: 10px;
     border-color: black;
+   position: absolute;
+   left: -2px;
+   top: 115px;
   }
   
   .campaign_ads_container {

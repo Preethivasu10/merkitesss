@@ -1,9 +1,9 @@
 .Number-head{
-    width: 400px;
+    width: 300px;
     height: 170px;
     padding-top: 5px;
     position: relative;
-    right: 5px;
+    right: 8px;
 }
 .number-text{
     line-height: 11px;
@@ -13,6 +13,7 @@
     color: black;
 }
 .title_employe{
+    font-size: 10px;
     font-weight: 600;
 }
 .number_740{

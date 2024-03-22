@@ -152,7 +152,7 @@ const Campaigns = () => {
 </div>
 
     <div className='adss'>
-      <div className='adsss' style={{ position: "relative", width: "110px", height: "235px", marginLeft: "15px" }}>
+      <div className='adsss' style={{ position: "relative", width: "100px", height: "235px", marginLeft: "8px",marginTop:'240px' }}>
         <div style={{ width: "80px", height: "auto", marginLeft: "10px" }}>
           {/* First Doughnut */}
           <Doughnut

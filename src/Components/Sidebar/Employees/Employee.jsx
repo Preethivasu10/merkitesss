@@ -107,7 +107,7 @@ const Employeee = () => {
   return (
     <>
      <div className='Number-head'>
-      <Card style={{ width: '260px', height: '250px'  ,padding:"5px"}}>
+      <Card style={{ width: '240px', height: '250px'  ,padding:"5px"}}>
       <Card.Header  as="h6" className='number-text'>
         <div className='row'>
             <div className='col-md-8'>
